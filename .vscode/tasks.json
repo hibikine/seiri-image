@@ -7,6 +7,11 @@
       "label": "move",
       "type": "shell",
       "command": ".\\move.ps1"
+    },
+    {
+      "label": "test",
+      "type": "shell",
+      "command": ".\\run-test.ps1"
     }
   ]
 }
